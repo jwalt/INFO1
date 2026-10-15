@@ -1,0 +1,6 @@
+{
+  "PyodideLockAddon": {
+    "enabled": true,
+    "lite_constraints_file": "requirements-pyodide-lock.txt",
+  }
+}
