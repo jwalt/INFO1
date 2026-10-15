@@ -1,6 +1,21 @@
 {
   "PyodideLockAddon": {
     "enabled": true,
-    "lite_constraints_file": "requirements-pyodide-lock.txt",
+    "specs": [
+      "ipycanvas==0.14.3",
+      "ipyleaflet==0.20.0",
+      "ipywidgets==8.1.8",
+      "ipyevents>=2.0.1",
+      "ipympl>=0.8.2",
+      "numpy==2.4.6",
+      "pandas==2.2.3",
+      "scipy==1.17.1",
+      "scikit-learn==1.8.0",
+      "scikit-image==0.26.0",
+      "matplotlib==3.10.9",
+      "plotly==6.7.0",
+      "sympy==1.14.0",
+      "protobuf==7.35.0",
+    ],
   }
 }
