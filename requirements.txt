@@ -36,7 +36,3 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 
-sympy
-scikit-image
-scikit-learn
-pandas
