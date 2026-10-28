@@ -33,3 +33,4 @@ plotly
 nbformat
 
 jupyterlab-filesystem-access
+jupyter-archive
