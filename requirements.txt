@@ -33,4 +33,4 @@ plotly
 nbformat
 
 jupyterlab-filesystem-access
-jupyter-archive
+jupyterlab_zip_extension
