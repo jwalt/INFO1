@@ -33,4 +33,3 @@ plotly
 nbformat
 
 jupyterlab-filesystem-access
-lckr_jupyterlab_variableinspector
