@@ -1,5 +1,23 @@
 {
   "@jupyterlab/translation-extension:plugin": {
     "locale": "de_DE"
+  },
+  "@jupyterlab/notebook-extension:panel": {
+    "toolbar": [
+      {
+        "name": "download",
+        "label": "Download",
+        "args": {},
+        "command": "docmanager:download",
+        "icon": "ui-components:download",
+        "rank": 50
+      }
+    ]
+  },
+  "@jupyterlab/completer-extension:manager": {
+        "showDocumentationPanel": true
+  },
+  "@jupyterlab/console-extension:tracker": {
+    "interactionMode": "terminal"
   }
 }
